@@ -2,11 +2,11 @@
   "magisk": {
     "version": "26.4",
     "versionCode": "26400",
-    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@26.4/app-release.apk",
+    "link": "https://github.com/topjohnwu/Magisk/releases/download/v26.4/Magisk-v26.4.apk",
     "note": "https://topjohnwu.github.io/Magisk/releases/26400.md"
   },
   "stub": {
     "versionCode": "38",
-    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@26.4/stub-release.apk"
+    "link": "https://github.com/topjohnwu/Magisk/releases/download/v26.4/Magisk-v26.4.apk"
   }
 }
